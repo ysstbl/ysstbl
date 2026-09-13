@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm yamini!
 🔭 I’m currently working on an AI extension for quick commerce apps<br>🌱 I love deterministic systems!<br>
 
 

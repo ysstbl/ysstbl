@@ -4,14 +4,6 @@
 
 ### Building thoughtful software for fast-moving products
 
-<p>
-  <a href="https://github.com/ysstbl">
-    <img src="https://komarev.com/ghpvc/?username=ysstbl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/ysstbl?tab=followers">
-    <img src="https://img.shields.io/github/followers/ysstbl?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  </a>
-</p>
 
 </div>
 

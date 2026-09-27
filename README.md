@@ -1,12 +1,57 @@
-# Hi, I'm yamini!
-🔭 I’m currently working on an AI extension for quick commerce apps<br>🌱 I love deterministic systems!<br>
+<div align="center">
 
+# Hey there, I'm Yamini 👋
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=plastic&logo=svelte&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ysstbl&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ysstbl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ysstbl&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### Building thoughtful software for fast-moving products
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <a href="https://github.com/ysstbl">
+    <img src="https://komarev.com/ghpvc/?username=ysstbl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/ysstbl?tab=followers">
+    <img src="https://img.shields.io/github/followers/ysstbl?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## About me
+
+- 🔭 Currently working on an **AI extension for quick-commerce applications**
+- 🌱 Interested in **deterministic systems**, reliable architecture, and useful automation
+- 🧠 I enjoy turning complex ideas into simple, maintainable developer experiences
+- ⚡ Always curious about better ways to build software that is fast, predictable, and delightful
+
+## Technology I work with
+
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+## GitHub at a glance
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ysstbl&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="165" alt="Yamini's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysstbl&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Yamini's most used languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ysstbl&theme=tokyonight&hide_border=true" alt="Yamini's GitHub contribution streak" />
+</div>
+
+## A principle I like
+
+> **Make systems predictable, interfaces simple, and every iteration meaningful.**
+
+<div align="center">
+
+### Thanks for stopping by ✨
+
+</div>

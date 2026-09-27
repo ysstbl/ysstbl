@@ -34,10 +34,7 @@
 
 ## GitHub at a glance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ysstbl&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="165" alt="Yamini's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysstbl&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Yamini's most used languages" />
-</div>
+
 
 <br>
 

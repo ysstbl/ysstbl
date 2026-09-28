@@ -11,10 +11,10 @@
 
 ## About me
 
- 🔭 Currently working on an **AI extension for quick-commerce applications**
- 🌱 Interested in **deterministic systems**, reliable architecture, and useful automation
- 🧠 I enjoy turning complex ideas into simple, maintainable developer experiences
- ⚡ Always curious about better ways to build software that is fast, predictable, and delightful
+- 🔭 Currently working on an **AI extension for quick-commerce applications**
+- 🌱 Interested in **deterministic systems**, reliable architecture, and useful automation
+- 🧠 I enjoy turning complex ideas into simple, maintainable developer experiences
+- ⚡ Always curious about better ways to build software that is fast, predictable, and delightful
 
 ## Technology I work with
 
